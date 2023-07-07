@@ -21,7 +21,7 @@ export default defineConfig({
   ],
   preview: {
     host: "localhost",
-    port: 5002,
+    port: 5001,
     strictPort: true,
     headers: {
       "Access-Control-Allow-Origin": "*",
